@@ -1,1 +1,1 @@
-Amazon clone website practice project.
+Amazon clone website frontend design project.
